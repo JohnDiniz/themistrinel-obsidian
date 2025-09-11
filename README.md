@@ -1,2 +1,0 @@
-# themistrinel-obsidian
-# themistrinel-obsidian

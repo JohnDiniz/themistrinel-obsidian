@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1757515917915,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1757515948516,
+          "items": [],
+          "title": "TJ Concurso"
+        },
+        {
+          "type": "group",
+          "ctime": 1757515959368,
+          "items": [],
+          "title": "attachments"
+        },
+        {
+          "type": "group",
+          "ctime": 1757515959368,
+          "items": [],
+          "title": "Calendar"
+        },
+        {
+          "type": "group",
+          "ctime": 1757515959368,
+          "items": [],
+          "title": "catype"
+        },
+        {
+          "type": "group",
+          "ctime": 1757515959369,
+          "items": [],
+          "title": "Templates"
+        },
+        {
+          "type": "file",
+          "ctime": 1757515959369,
+          "path": "demo fashcards.md",
+          "subpath": "#^-"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
