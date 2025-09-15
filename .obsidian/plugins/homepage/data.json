@@ -1,0 +1,23 @@
+{
+  "version": 4,
+  "homepages": {
+    "Main Homepage": {
+      "value": "2.‎‎‎‎‎‎​ TJ Concurso/0.‎‎‎‎‎‎​ Dashboard/brabo",
+      "kind": "Daily Note",
+      "openOnStartup": true,
+      "openMode": "Replace all open notes",
+      "manualOpenMode": "Keep open notes",
+      "view": "Default view",
+      "revertView": true,
+      "openWhenEmpty": false,
+      "refreshDataview": false,
+      "autoCreate": false,
+      "autoScroll": false,
+      "pin": false,
+      "commands": [],
+      "alwaysApply": false,
+      "hideReleaseNotes": false
+    }
+  },
+  "separateMobile": false
+}

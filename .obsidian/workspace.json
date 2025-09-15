@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "639f8f4132424b9b",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "49a289a3ebc066d0",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "bcb37ce2ecf50767",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.TJ Concurso/Dashboard/brabo.md",
+                "file": "0.‎‎‎‎‎‎​ Inbox/raw/Aula 02 - Introdução informatica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "brabo"
-            }
-          },
-          {
-            "id": "8851cc0a73d95957",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.Inbox/test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "test"
+              "title": "Aula 02 - Introdução informatica"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a34213d1c85b6ff1",
+    "id": "d1d85c4fa4e3b34b",
     "type": "split",
     "children": [
       {
-        "id": "0f1228262e8d48f2",
+        "id": "a81b87ef2e116dd1",
         "type": "tabs",
         "children": [
           {
-            "id": "b10d97b308991d42",
+            "id": "a464f1edc0381b6f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,12 +48,12 @@
             }
           },
           {
-            "id": "6d79cdc56a5abdc2",
+            "id": "6ccb91dbd8480c1c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "d1",
+                "query": "pasted",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "049b6fa878711eb8",
+            "id": "c5d9c17c9b2259eb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,119 +73,15 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 221.51103591918945
-  },
-  "right": {
-    "id": "7bc67c77920f9ec6",
-    "type": "split",
-    "children": [
-      {
-        "id": "709beea7be3af38b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fdc57047e951adaf",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "0 brabo/Método 360/2 aprender.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 2 aprender"
-            }
           },
           {
-            "id": "008f3951f462cfff",
+            "id": "55cab460088a7e69",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "0 brabo/Método 360/2 aprender.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 2 aprender"
-            }
-          },
-          {
-            "id": "fe562c8b7ce4885b",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "d0a92929b998be5b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "0 brabo/Método 360/2 aprender.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 2 aprender"
-            }
-          },
-          {
-            "id": "c5826b3818a7bf4c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
+              "type": "vertical-tabs",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "cd08b3ee3836f199",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "a0e4650319de0cfc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c636b5b703269c97",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "vertical-tabs",
+              "title": "Vertical tabs"
             }
           }
         ]
@@ -210,58 +91,176 @@
     "width": 300,
     "collapsed": true
   },
+  "right": {
+    "id": "64a8f8d6442b34b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "68f1200120c39a4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "919d6c578da54969",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2.‎‎‎‎‎‎​ TJ Concurso/0.‎‎‎‎‎‎​ Dashboard/brabo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for brabo"
+            }
+          },
+          {
+            "id": "bf567d41e97a9222",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2.‎‎‎‎‎‎​ TJ Concurso/0.‎‎‎‎‎‎​ Dashboard/brabo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from brabo"
+            }
+          },
+          {
+            "id": "e4bcd0a9421fe153",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2de0fc5eadaf2e8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0.‎‎‎‎‎‎​ Inbox/raw/Aula 02 - Introdução informatica.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Aula 02 - Introdução informatica"
+            }
+          },
+          {
+            "id": "0f6fc5fd6f76084d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "d3cde7ca9c656966",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "ca967e7a67013a57",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8851cc0a73d95957",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "1.TJ Concurso/Dashboard/brabo.md",
-    "2.Projects Ideas/wallpaper.md",
-    "0.Inbox/test.md",
-    "2.Projects Ideas/Ensinar codigo.md",
-    "0.Inbox",
-    "2.Projects Ideas/catype/mundo 3d.md",
-    "2.Projects Ideas/catype/catype.md",
-    "2.Projects Ideas/catype/Linear.md",
-    "4.Templates/Loop.md",
-    "2.Projects Ideas",
-    "1.TJ Concurso/Rotina de Estudos Consistente/Protocolo da manhã.md",
-    "1.TJ Concurso/Rotina de Estudos Consistente/Protocolo da tarde.md",
-    "1.TJ Concurso/Rotina de Estudos Consistente/Protocolo da noite.md",
-    "1.TJ Concurso/Rotina de Estudos Consistente/Ritmo Circadiano e Cronobiologia.md",
-    "1.TJ Concurso/Método 360/Método 360.md",
-    "1.TJ Concurso/Método 360/fixar.md",
-    "1.TJ Concurso/Método 360/alternar.md",
-    "1.TJ Concurso/Método 360/entender.md",
-    "1.TJ Concurso/Método 360/prepara.md",
-    "1.TJ Concurso/Método 360/Prática.md",
-    "1.TJ Concurso/Rotina de Estudos Consistente",
-    "1.TJ Concurso/Método 360/aprender.md",
-    "respiração diafragmática.md",
-    "espiração diafragmática.md",
-    "1.TJ Concurso/Método 360/Revisão D1 e D2.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/Aula 01 - Introdução informatica.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/Aula 02 - Introdução informatica.md",
+    "Estudo/CircuitoLoop/Sessões/Informática/Sessao - 2025-09-15 18-37-01.md",
+    "Estudo/CircuitoLoop/tracker.md",
+    "6.‎‎‎‎‎‎​ Templates/CriarSessao.md",
+    "6.‎‎‎‎‎‎​ Templates/Untitled.md",
+    "1.‎‎‎‎‎‎ ​Daily Notes/2025-09-15.md",
+    "Estudo/CircuitoLoop/Sessões/Português/Sessao - 2025-09-15 17-30-24.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/Untitled.md",
+    "0.‎‎‎‎‎‎​ Inbox/Funções.md",
+    "0.‎‎‎‎‎‎​ Inbox/test.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/aula 1 Morfologia - classes gramaticas.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/aula 2  Morfologia - classes gramaticas 2.md",
+    "Estudo/CircuitoLoop/Untitled.md",
+    "Estudo/CircuitoLoop/Sessões/Informática",
+    "Estudo/CircuitoLoop/CircuitoLoop.md",
     "demo fashcards.md",
-    "1.TJ Concurso/Questões/Sou test.md",
-    "1.TJ Concurso/Questões/test.md",
-    "1.TJ Concurso/Questões/Sou test 1.md",
-    "1.TJ Concurso/Dashboard",
-    "1.TJ Concurso/Questões",
-    "1.TJ Concurso/Matérias/Atualidades",
-    "1.TJ Concurso/Matérias/Informática",
-    "1.TJ Concurso/Matérias/Português",
-    "1.TJ Concurso/Matérias",
-    "5.attachments/Pasted image 20250909125021.png",
-    "5.attachments"
+    "Estudo/CircuitoLoop/Sessões/Informática/Sessao - 2025-09-15 17-50-18.md",
+    "Estudo/CircuitoLoop/Sessões/Português",
+    "Estudo/CircuitoLoop/Sessões/Informática/Sessao - 2025-09-15 17-26-12.md",
+    "Estudo/CircuitoLoop/Sessões/Português/Sessao - 2025-09-15 17-21-12.md",
+    "Estudo/CircuitoLoop/Sessões/Português/ss.md",
+    "Estudo/CircuitoLoop/Sessões/Português/Sessao - 2025-09-15 17-19-55.md",
+    "Estudo/CircuitoLoop/Untitled 2.md",
+    "Estudo/CircuitoLoop/Sessões/Direito Processual Civil/Sessao - 2025-09-15 17-19-42.md",
+    "Estudo/CircuitoLoop/Sessões/Direito Processual Civil",
+    "Estudo/CircuitoLoop/Untitled 1.md",
+    "Estudo/CircuitoLoop/Sessões/Informática/Sessao - 2025-09-15 17-19-19.md",
+    "Estudo/CircuitoLoop/Sessões/Português/Sessao - 2025-09-15 17-18-13.md",
+    "Estudo/CircuitoLoop/Sessões/Legislação Interna",
+    "Estudo/CircuitoLoop/Sessões/Atualidades/PCD",
+    "Estudo/CircuitoLoop/Sessões/Atualidades",
+    "Estudo/CircuitoLoop/Sessões/Direito Proc. Penal",
+    "Estudo/CircuitoLoop/Sessões/Matemática",
+    "6.‎‎‎‎‎‎​ Templates/test.js",
+    "6.‎‎‎‎‎‎​ Templates/user",
+    "3.‎‎‎‎‎‎​ Programming/Projetos/OAuth2_Fluxos/Discord_python/venv/lib/python3.13/site-packages/werkzeug/debug/shared/more.png",
+    "3.‎‎‎‎‎‎​ Programming/Projetos/OAuth2_Fluxos/Discord_python/venv/lib/python3.13/site-packages/werkzeug/debug/shared/less.png",
+    "3.‎‎‎‎‎‎​ Programming/Projetos/OAuth2_Fluxos/Discord_python/venv/lib/python3.13/site-packages/werkzeug/debug/shared/console.png"
   ]
 }

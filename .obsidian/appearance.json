@@ -1,4 +1,12 @@
 {
   "cssTheme": "",
-  "theme": "moonstone"
+  "theme": "system",
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "showRibbon": true,
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "custom-font"
+  ]
 }

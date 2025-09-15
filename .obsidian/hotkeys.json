@@ -2,9 +2,25 @@
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "B"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Delete"
     }
   ]
 }

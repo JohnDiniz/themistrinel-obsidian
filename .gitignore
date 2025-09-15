@@ -1,0 +1,123 @@
+# ======================
+# Arquivos do sistema
+# ======================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.swp
+*.swo
+
+# ======================
+# IDEs / Editores
+# ======================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+*.iml
+*.bak
+*.orig
+
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.env/
+pip-log.txt
+*.egg-info/
+dist/
+build/
+
+# ======================
+# Node / JavaScript
+# ======================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist/
+build/
+.env
+.DS_Store
+
+# ======================
+# Java / Kotlin
+# ======================
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+out/
+target/
+build/
+.gradle/
+.idea/
+
+# ======================
+# Rust
+# ======================
+/target/
+**/*.rs.bk
+
+# ======================
+# Go
+# ======================
+/bin/
+/pkg/
+/vendor/
+/*.exe
+*.out
+*.test
+
+# ======================
+# Ruby / Rails
+# ======================
+*.gem
+*.rbc
+/.config
+/log/
+tmp/
+*.pid
+*.seed
+db/*.sqlite3
+/public/system
+/public/uploads
+
+# ======================
+# Docker
+# ======================
+docker-compose.override.yml
+*.dockerfile
+docker-compose.override.yml
+
+# ======================
+# Terraform
+# ======================
+.terraform/
+*.tfstate
+*.tfstate.backup
+crash.log
+*.tfvars
+
+# ======================
+# Outros
+# ======================
+*.sqlite
+*.db
+*.zip
+*.tar.gz
+*.rar
+*.7z

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCodeSquare",
+      "LiImages",
+      "LiBookCheck",
       "LiPenBox",
-      "LiBook",
-      "LiBookTemplate",
-      "LiFileCode",
-      "LiCalendar"
+      "LiBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,10 +34,12 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "0.Inbox": "LiPenBox",
-  "1.TJ Concurso": "LiBook",
-  "2.Projects Ideas": "LiFileCode",
-  "3.Calendar": "LiCalendar",
-  "4.Templates": "LiBookTemplate",
-  "5.attachments": "LiImages"
+  "0.‎‎‎‎‎‎​ Inbox": "LiPenBox",
+  "2.‎‎‎‎‎‎​ TJ Concurso": "LiBook",
+  "3.‎‎‎‎‎‎​ Programming": "LiCodeSquare",
+  "4.‎‎‎‎‎‎​ Projects Ideas": "LiFileCode",
+  "5.‎‎‎‎‎‎​ Calendar": "LiCalendar",
+  "6.‎‎‎‎‎‎​ Templates": "LiBookTemplate",
+  "7.‎‎‎‎‎‎​ attachments": "LiImages",
+  "1.‎‎‎‎‎‎ ​Daily Notes": "LiBookCheck"
 }
