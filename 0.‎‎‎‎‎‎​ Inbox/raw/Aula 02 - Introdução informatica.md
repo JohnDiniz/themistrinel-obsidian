@@ -33,7 +33,7 @@ São as partes **tangíveis** que compõem a estrutura do sistema, incluindo tod
 
 ---
 
-### 4. Dispositivos de Armazenamento
+### 4. Dispositivos de Armazenamento (não volátil)
 
 * **HD (Disco Rígido):** Armazenamento magnético, com grande capacidade, mas mais lento.
 * **SSD (Unidade de Estado Sólido):** Armazenamento eletrônico, mais rápido e durável que o HD.
@@ -62,3 +62,8 @@ São as partes **tangíveis** que compõem a estrutura do sistema, incluindo tod
 * **Entrada:** teclado, mouse, scanner, microfone.
 * **Saída:** monitor, impressora, caixas de som, fones de ouvido.
 * Permitem a **interação entre o usuário e o computador**.
+
+
+
+
+

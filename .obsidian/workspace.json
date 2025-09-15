@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "6af42565840aea49",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "2d33e4b2414a42cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.‎‎‎‎‎‎​ Inbox/raw/Aula 02 - Introdução informatica.md",
+                "file": "0.‎‎‎‎‎‎​ Inbox/raw/aula 4 infoamtica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 02 - Introdução informatica"
+              "title": "aula 4 infoamtica"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "64a8f8d6442b34b2",
@@ -193,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -217,25 +216,31 @@
       "homepage:Open homepage": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "periodic-notes:Open today": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2d33e4b2414a42cb",
   "lastOpenFiles": [
-    "0.‎‎‎‎‎‎​ Inbox/raw/Aula 01 - Introdução informatica.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/aula 3 informatica.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/aula 4 infoamtica.md",
+    "1.‎‎‎‎‎‎ ​Daily Notes/2025-09-13.md",
+    "2.‎‎‎‎‎‎​ TJ Concurso/0.‎‎‎‎‎‎​ Dashboard/brabo.md",
+    "1.‎‎‎‎‎‎ ​Daily Notes/2025-09-15.md",
+    "2.‎‎‎‎‎‎​ TJ Concurso/5.‎‎‎‎‎‎​ Circuito Loop/O que é o Circuito Loop/Análise Detalhada do Edital TJSP e Circuito Loop - Pós-Edital.md",
     "0.‎‎‎‎‎‎​ Inbox/raw/Aula 02 - Introdução informatica.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/obsidian.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/aula 2  Morfologia - classes gramaticas 2.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/Aula 01 - Introdução informatica.md",
+    "3.‎‎‎‎‎‎​ Programming/Padrões & Arquitetura/Segurança/Autenticação/OAuth2_Fluxos.md",
     "Estudo/CircuitoLoop/Sessões/Informática/Sessao - 2025-09-15 18-37-01.md",
     "Estudo/CircuitoLoop/tracker.md",
     "6.‎‎‎‎‎‎​ Templates/CriarSessao.md",
     "6.‎‎‎‎‎‎​ Templates/Untitled.md",
-    "1.‎‎‎‎‎‎ ​Daily Notes/2025-09-15.md",
     "Estudo/CircuitoLoop/Sessões/Português/Sessao - 2025-09-15 17-30-24.md",
-    "0.‎‎‎‎‎‎​ Inbox/raw/Untitled.md",
     "0.‎‎‎‎‎‎​ Inbox/Funções.md",
     "0.‎‎‎‎‎‎​ Inbox/test.md",
     "0.‎‎‎‎‎‎​ Inbox/raw/aula 1 Morfologia - classes gramaticas.md",
-    "0.‎‎‎‎‎‎​ Inbox/raw/aula 2  Morfologia - classes gramaticas 2.md",
     "Estudo/CircuitoLoop/Untitled.md",
     "Estudo/CircuitoLoop/Sessões/Informática",
     "Estudo/CircuitoLoop/CircuitoLoop.md",
@@ -245,13 +250,7 @@
     "Estudo/CircuitoLoop/Sessões/Informática/Sessao - 2025-09-15 17-26-12.md",
     "Estudo/CircuitoLoop/Sessões/Português/Sessao - 2025-09-15 17-21-12.md",
     "Estudo/CircuitoLoop/Sessões/Português/ss.md",
-    "Estudo/CircuitoLoop/Sessões/Português/Sessao - 2025-09-15 17-19-55.md",
-    "Estudo/CircuitoLoop/Untitled 2.md",
-    "Estudo/CircuitoLoop/Sessões/Direito Processual Civil/Sessao - 2025-09-15 17-19-42.md",
     "Estudo/CircuitoLoop/Sessões/Direito Processual Civil",
-    "Estudo/CircuitoLoop/Untitled 1.md",
-    "Estudo/CircuitoLoop/Sessões/Informática/Sessao - 2025-09-15 17-19-19.md",
-    "Estudo/CircuitoLoop/Sessões/Português/Sessao - 2025-09-15 17-18-13.md",
     "Estudo/CircuitoLoop/Sessões/Legislação Interna",
     "Estudo/CircuitoLoop/Sessões/Atualidades/PCD",
     "Estudo/CircuitoLoop/Sessões/Atualidades",

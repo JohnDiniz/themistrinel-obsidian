@@ -3,7 +3,7 @@ O concurso público do Tribunal de Justiça do Estado de São Paulo (TJSP) para 
 ---
 
 ## 📌 Informações Gerais
-
+****
 * **Cargo**: Escrevente Técnico Judiciário
 * **Escolaridade**: Nível médio
 * **Vagas**: Cadastro de reserva

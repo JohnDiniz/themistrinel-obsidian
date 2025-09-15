@@ -1,8 +1,20 @@
-Qual a importancia de estudar Informatica nos concursos?
-Praticamente todas os concursos tém a éria de Informatica no edital, #6g0; ‘
-importancia ja é CLARA! Sabendo disso, ac/escentaria mais um dado: cercde 40% )
+## 📌 Qual a importância de estudar Informática nos concursos?
 
-das questões/assinaladas erradas)em concurso são de Informática, ou seja
+Praticamente **todos os concursos** têm a disciplina de **Informática** no edital.
+Ou seja, a **importância já é evidente**! 🚀
 
-__questões que você errou, 4 são de informática.
+👉 Um dado importante: cerca de **40% das questões erradas em concursos** estão relacionadas à Informática.
+Isso significa que, a cada **10 questões que você erra, 4 são dessa disciplina**.
 
+### 🎯 Por que isso acontece?
+
+* Muitos candidatos **negligenciam a matéria**, achando que é simples.
+* Os exames cobram **atualizações constantes**, pegando desprevenido quem só estudou o básico.
+* A disciplina é **transversal**, caindo em **provas de exatas, humanas e carreiras policiais**.
+
+### ✅ Conclusão
+
+Estudar Informática é **decisivo** para aumentar sua nota e se destacar na classificação.
+Ignorar essa disciplina pode ser o que **te afasta da aprovação**.
+
+---
