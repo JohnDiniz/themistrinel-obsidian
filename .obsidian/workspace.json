@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6af42565840aea49",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "2d33e4b2414a42cb",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.‎‎‎‎‎‎​ Inbox/raw/aula 4 infoamtica.md",
+                "file": "0.‎‎‎‎‎‎​ Inbox/raw/Substantivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aula 4 infoamtica"
+              "title": "Substantivos"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d1d85c4fa4e3b34b",
+    "id": "00b40df576d6eeea",
     "type": "split",
     "children": [
       {
-        "id": "a81b87ef2e116dd1",
+        "id": "7233bae3943498e6",
         "type": "tabs",
         "children": [
           {
-            "id": "a464f1edc0381b6f",
+            "id": "b93b09009ef49baa",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "6ccb91dbd8480c1c",
+            "id": "c8a05bdc00eeae7f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "pasted",
+                "query": "tag:#flashcards/materias/portugueso",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,23 +65,13 @@
             }
           },
           {
-            "id": "c5d9c17c9b2259eb",
+            "id": "6b6d62ab4a9a4e6a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "55cab460088a7e69",
-            "type": "leaf",
-            "state": {
-              "type": "vertical-tabs",
-              "state": {},
-              "icon": "vertical-tabs",
-              "title": "Vertical tabs"
             }
           }
         ]
@@ -91,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "64a8f8d6442b34b2",
+    "id": "75dfc5e46dc26793",
     "type": "split",
     "children": [
       {
-        "id": "68f1200120c39a4d",
+        "id": "818273c8f308d254",
         "type": "tabs",
         "children": [
           {
-            "id": "919d6c578da54969",
+            "id": "409e050cb97a417a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.‎‎‎‎‎‎​ TJ Concurso/0.‎‎‎‎‎‎​ Dashboard/brabo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for brabo"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "bf567d41e97a9222",
+            "id": "12f1bbadf13006a3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.‎‎‎‎‎‎​ TJ Concurso/0.‎‎‎‎‎‎​ Dashboard/brabo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from brabo"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "e4bcd0a9421fe153",
+            "id": "117f61ece8671206",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,22 +135,22 @@
             }
           },
           {
-            "id": "2de0fc5eadaf2e8b",
+            "id": "c427a9fa2add5772",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.‎‎‎‎‎‎​ Inbox/raw/Aula 02 - Introdução informatica.md",
+                "file": "0.‎‎‎‎‎‎​ Inbox/raw/Direito Administrativo/aula 2  Disposições Gerais (Art. 2 a 8-A).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Aula 02 - Introdução informatica"
+              "title": "Outline of aula 2  Disposições Gerais (Art. 2 a 8-A)"
             }
           },
           {
-            "id": "0f6fc5fd6f76084d",
+            "id": "57ae7397d7768751",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -172,7 +160,7 @@
             }
           },
           {
-            "id": "d3cde7ca9c656966",
+            "id": "7320c9ab2801f301",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -182,7 +170,7 @@
             }
           },
           {
-            "id": "ca967e7a67013a57",
+            "id": "0e4c1ae0eb414afe",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -220,46 +208,42 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2d33e4b2414a42cb",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "0.‎‎‎‎‎‎​ Inbox/raw/aula 3 informatica.md",
-    "0.‎‎‎‎‎‎​ Inbox/raw/aula 4 infoamtica.md",
-    "1.‎‎‎‎‎‎ ​Daily Notes/2025-09-13.md",
-    "2.‎‎‎‎‎‎​ TJ Concurso/0.‎‎‎‎‎‎​ Dashboard/brabo.md",
-    "1.‎‎‎‎‎‎ ​Daily Notes/2025-09-15.md",
-    "2.‎‎‎‎‎‎​ TJ Concurso/5.‎‎‎‎‎‎​ Circuito Loop/O que é o Circuito Loop/Análise Detalhada do Edital TJSP e Circuito Loop - Pós-Edital.md",
-    "0.‎‎‎‎‎‎​ Inbox/raw/Aula 02 - Introdução informatica.md",
-    "0.‎‎‎‎‎‎​ Inbox/raw/obsidian.md",
-    "0.‎‎‎‎‎‎​ Inbox/raw/aula 2  Morfologia - classes gramaticas 2.md",
-    "0.‎‎‎‎‎‎​ Inbox/raw/Aula 01 - Introdução informatica.md",
-    "3.‎‎‎‎‎‎​ Programming/Padrões & Arquitetura/Segurança/Autenticação/OAuth2_Fluxos.md",
-    "Estudo/CircuitoLoop/Sessões/Informática/Sessao - 2025-09-15 18-37-01.md",
-    "Estudo/CircuitoLoop/tracker.md",
-    "6.‎‎‎‎‎‎​ Templates/CriarSessao.md",
-    "6.‎‎‎‎‎‎​ Templates/Untitled.md",
-    "Estudo/CircuitoLoop/Sessões/Português/Sessao - 2025-09-15 17-30-24.md",
-    "0.‎‎‎‎‎‎​ Inbox/Funções.md",
-    "0.‎‎‎‎‎‎​ Inbox/test.md",
-    "0.‎‎‎‎‎‎​ Inbox/raw/aula 1 Morfologia - classes gramaticas.md",
-    "Estudo/CircuitoLoop/Untitled.md",
-    "Estudo/CircuitoLoop/Sessões/Informática",
-    "Estudo/CircuitoLoop/CircuitoLoop.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/port/aula 3.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/Substantivos.md",
+    "2.‎‎‎‎‎‎​ Daily Notes/2025-09-19.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/port/aula 2  Morfologia - classes gramaticas 2.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/port/aula 1 Morfologia - classes gramaticas.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/Raciocínio Lógico/Proposições Lógicas/aula 1 Proposições Lógicas.md",
     "demo fashcards.md",
-    "Estudo/CircuitoLoop/Sessões/Informática/Sessao - 2025-09-15 17-50-18.md",
-    "Estudo/CircuitoLoop/Sessões/Português",
-    "Estudo/CircuitoLoop/Sessões/Informática/Sessao - 2025-09-15 17-26-12.md",
-    "Estudo/CircuitoLoop/Sessões/Português/Sessao - 2025-09-15 17-21-12.md",
-    "Estudo/CircuitoLoop/Sessões/Português/ss.md",
-    "Estudo/CircuitoLoop/Sessões/Direito Processual Civil",
-    "Estudo/CircuitoLoop/Sessões/Legislação Interna",
-    "Estudo/CircuitoLoop/Sessões/Atualidades/PCD",
-    "Estudo/CircuitoLoop/Sessões/Atualidades",
-    "Estudo/CircuitoLoop/Sessões/Direito Proc. Penal",
-    "Estudo/CircuitoLoop/Sessões/Matemática",
-    "6.‎‎‎‎‎‎​ Templates/test.js",
-    "6.‎‎‎‎‎‎​ Templates/user",
-    "3.‎‎‎‎‎‎​ Programming/Projetos/OAuth2_Fluxos/Discord_python/venv/lib/python3.13/site-packages/werkzeug/debug/shared/more.png",
-    "3.‎‎‎‎‎‎​ Programming/Projetos/OAuth2_Fluxos/Discord_python/venv/lib/python3.13/site-packages/werkzeug/debug/shared/less.png",
-    "3.‎‎‎‎‎‎​ Programming/Projetos/OAuth2_Fluxos/Discord_python/venv/lib/python3.13/site-packages/werkzeug/debug/shared/console.png"
+    "3.‎‎‎‎‎‎​ TJ Concurso/3.‎‎‎‎‎‎​ Matérias/Português/Português.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/port",
+    "0.‎‎‎‎‎‎​ Inbox/Funções.md",
+    "3.‎‎‎‎‎‎​ TJ Concurso/0.‎‎‎‎‎‎​ Dashboard/sessoes.md",
+    "3.‎‎‎‎‎‎​ TJ Concurso/0.‎‎‎‎‎‎​ Dashboard/Untitled.md",
+    "1.‎‎‎‎‎‎​ Estudo/CircuitoLoop/Sessões/Português/Sessao-2025-09-19.md",
+    "8.‎‎‎‎‎‎​ attachments/Material_Complementar_1a_Ed_Informatica 1.pdf",
+    "8.‎‎‎‎‎‎​ attachments/Material_Complementar_1a_Ed_Informatica.pdf",
+    "1.‎‎‎‎‎‎​ Estudo/Trackers.md",
+    "5.‎‎‎‎‎‎​ Projects Ideas/wallflow/wallflow.md",
+    "2.‎‎‎‎‎‎​ Daily Notes/2025-09-18.md",
+    "5.‎‎‎‎‎‎​ Projects Ideas/wallflow",
+    "1.‎‎‎‎‎‎​ Estudo/CircuitoLoop/Sessões/Raciocínio Lógico/Sessao-2025-09-18.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/Raciocínio Lógico/Proposições Lógicas/aula 3.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/Raciocínio Lógico/Proposições Lógicas/Aula 02 - Proposições Lógicas.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/Raciocínio Lógico/Proposições Lógicas/Conceitos Jurídicos Essenciais.md",
+    "3.‎‎‎‎‎‎​ TJ Concurso/3.‎‎‎‎‎‎​ Matérias/Direito.md",
+    "1.‎‎‎‎‎‎​ Estudo/CircuitoLoop/CircuitoLoop.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/Raciocínio Lógico",
+    "0.‎‎‎‎‎‎​ Inbox/raw/Raciocínio Lógico/Proposições Lógicas",
+    "1.‎‎‎‎‎‎​ Estudo/CircuitoLoop/Sessões/Raciocínio Lógico",
+    "1.‎‎‎‎‎‎​ Estudo/CircuitoLoop/Sessões/Direito Administrativo/Sessao-2025-09-18.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/Direito Administrativo/aula 2  Disposições Gerais (Art. 2 a 8-A).md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/Direito Administrativo/aula 1 Disposições Gerais (Art. 1).md",
+    "1.‎‎‎‎‎‎​ Estudo/CircuitoLoop/Sessões/Direito Administrativo",
+    "0.‎‎‎‎‎‎​ Inbox/raw/Direito Administrativo",
+    "3.‎‎‎‎‎‎​ TJ Concurso/4.‎‎‎‎‎‎​ Questões/Questões.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/Direito Proc. Penal/Do Juiz, MP, Acusado e Defensor, Assist. e Aux. da Justiça/Aula 2 Sujeitos do Processo Impedimento e Suspeição - Parte 1.md"
   ]
 }

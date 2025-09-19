@@ -1,7 +1,7 @@
 flashcards/teste
 
 
-CTRP+P;;abre tal coisa
+pergunta;;resposta
 
 
 

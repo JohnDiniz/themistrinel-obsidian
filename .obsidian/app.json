@@ -1,9 +1,10 @@
 {
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "7.‎‎‎‎‎‎​ attachments",
+  "attachmentFolderPath": "8.‎‎‎‎‎‎​ attachments",
   "newLinkFormat": "shortest",
   "newFileLocation": "current",
   "showInlineTitle": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "autoConvertHtml": false
 }

@@ -1,0 +1,11 @@
+{
+  "pasteOverride": true,
+  "maxHeadingLevel": 1,
+  "removeEmptyElements": false,
+  "cascadeHeadingLevels": true,
+  "contextualCascade": false,
+  "stripLineBreaks": false,
+  "removeEmptyLines": true,
+  "htmlRegexReplacements": [],
+  "markdownRegexReplacements": []
+}

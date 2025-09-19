@@ -1,7 +1,7 @@
 {
   "settings": {
     "flashcardTags": [
-      "#flashcards/teste"
+      "#flashcards"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
