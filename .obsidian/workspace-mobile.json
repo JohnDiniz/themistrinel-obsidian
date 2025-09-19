@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "89374bb89d007aee",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "307f4221bac627a7",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "be34c6f2e868d375",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.‎‎‎‎‎‎​ Inbox/raw/port/aula 1 Morfologia - classes gramaticas.md",
+                "file": "0.‎‎‎‎‎‎​ Inbox/raw/obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aula 1 Morfologia - classes gramaticas"
+              "title": "obsidian"
             }
           }
         ]
@@ -159,12 +159,28 @@
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
+      },
+      {
+        "id": "dd0fa5c313ee114c",
+        "type": "leaf",
+        "state": {
+          "type": "planner-timeline",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Timeline"
+        }
       }
     ],
     "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -174,11 +190,14 @@
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "be34c6f2e868d375",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2.‎‎‎‎‎‎​ Daily Notes/2025-09-19.md",
+    "0.‎‎‎‎‎‎​ Inbox/raw/port/aula 1 Morfologia - classes gramaticas.md",
     "1.‎‎‎‎‎‎​ Estudo/CircuitoLoop/tracker.md",
     "3.‎‎‎‎‎‎​ TJ Concurso/0.‎‎‎‎‎‎​ Dashboard/sessoes.md",
     "1.TJ Concurso/Dashboard/brabo.md",
@@ -219,8 +238,6 @@
     "3.‎‎‎‎‎‎​ TJ Concurso/5.‎‎‎‎‎‎​ Circuito Loop/O que é o Circuito Loop/Análise Detalhada do Edital TJSP e Circuito Loop - Pós-Edital.md",
     "3.‎‎‎‎‎‎​ TJ Concurso/3.‎‎‎‎‎‎​ Matérias/Informática/Informática.md",
     "3.‎‎‎‎‎‎​ TJ Concurso/3.‎‎‎‎‎‎​ Matérias/Português/Português.md",
-    "3.‎‎‎‎‎‎​ TJ Concurso/3.‎‎‎‎‎‎​ Matérias/Direito Proc. Penal/Direito Proc. Penal.md",
-    "3.‎‎‎‎‎‎​ TJ Concurso/2.‎‎‎‎‎‎​ Rotina de Estudos Consistente/Como vencer a Procrastinação/Como Lidar.md",
-    "3.‎‎‎‎‎‎​ TJ Concurso/2.‎‎‎‎‎‎​ Rotina de Estudos Consistente/Como vencer a Procrastinação/O que mantém.md"
+    "3.‎‎‎‎‎‎​ TJ Concurso/3.‎‎‎‎‎‎​ Matérias/Direito Proc. Penal/Direito Proc. Penal.md"
   ]
 }
